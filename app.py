@@ -21,9 +21,9 @@ from reach_svhc_screener import (
     screen_substances,
 )
 
-st.set_page_config(page_title="REACH SVHC Screener", page_icon="🇪🇺", layout="wide")
+st.set_page_config(page_title="REACH SVHC Screener", page_icon="🌍", layout="wide")
 
-st.title("🇪🇺 EU REACH SVHC Candidate List & Article Communication Screener")
+st.title("🌍 EU REACH SVHC Candidate List & Article Communication Screener")
 st.markdown(
     "Once a substance is added to ECHA's REACH **Candidate List of Substances of "
     "Very High Concern (SVHC)**, anyone placing articles containing it above "
